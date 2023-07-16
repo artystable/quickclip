@@ -10,4 +10,4 @@ function convertClipboard() {
     });
 }
 
-convertClipboard()
+convertClipboard();
